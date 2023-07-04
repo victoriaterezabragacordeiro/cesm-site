@@ -94,16 +94,16 @@ footer {
     .siga-nos {
     color:rgba(255, 255, 255, 1);  
     font-size: 20px  ; 
-    padding:1px 0 0}
+    padding:1px ;}
 
     .imagem_rodape{
     width:10% ;   
-    padding: 5px 0 0     
+    padding: 5px ;     
     }
 
     .contato {
     color:rgba(255, 255, 255, 1)  ;
     font-size:25px  ;
-    padding: 1px 0 0    
+    padding: 1px ;    
 }
 
